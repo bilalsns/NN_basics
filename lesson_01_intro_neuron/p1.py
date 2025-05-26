@@ -1,4 +1,4 @@
-#calculating for only one neuron
+# Single neuron simulation
 inputs = [1.2, 8.4, 3.14]
 weights = [0.1, 0.2, 0.3]
 bias = .7

@@ -1,3 +1,4 @@
+# Batches
 import numpy as np
 
 # added batches - set of inputs, helps to calculate faster. each inner array represents one batch

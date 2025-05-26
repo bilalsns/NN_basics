@@ -1,3 +1,5 @@
+# Initializing layers using class
+
 import numpy as np
 
 np.random.seed(0)
