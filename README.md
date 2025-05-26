@@ -1,6 +1,6 @@
 # NN_basics
 
-This repository encapsulates my hands-on journey through Sentdex's [Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) YouTube series. The course delves into building neural networks from the ground up using pure Python, without relying on external libraries. It offers a comprehensive understanding of the fundamental components and mechanics of neural networks.
+Sentdex's [Neural Networks from Scratch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) course is a great introduction to neural networks. Without relying on external libraries, you learn how to build NNs from the ground up.
 
 ## 📚 Course Overview
 
